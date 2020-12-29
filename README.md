@@ -19,7 +19,7 @@
 ------------
 
 **Am I looking for work?** 
-Currently no as I do not have time as I manage **[Atlas Development](http://elapsed.dev/discord "Atlas Development")** and work at [**VendettaMC**](http://vendettamc.net/discord "**VendettaMC**") and currently attending at UAT.
+- Currently no as I do not have time as I manage **[Atlas Development](http://elapsed.dev/discord "Atlas Development")** and work at [**VendettaMC**](http://vendettamc.net/discord "**VendettaMC**") and currently attending at UAT.
 
 ------------
 
