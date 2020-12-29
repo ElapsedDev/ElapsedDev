@@ -7,18 +7,18 @@
 
 ------------
 ### 📫 Contact Info
-📘 **Discord** : Elapsed#0001
-📜**Telegram** : @ElapsedDev
+- 📘 **Discord** : Elapsed#0001 
+- 📜**Telegram** : @ElapsedDev
 
 ------------
 
 ### ⚡ Current Work
-I currently work at [**VendettaMC**](http://vendettamc.net/discord "**VendettaMC**") as the lead developer and spend most of my time working.
-I am also the founder of **[Atlas Development](http://elapsed.dev/discord "Atlas Development")** where at alot of my product line is showcased at!
+- I currently work at [**VendettaMC**](http://vendettamc.net/discord "**VendettaMC**") as the lead developer and spend most of my time working. 
+- I am also the founder of **[Atlas Development](http://elapsed.dev/discord "Atlas Development")** where at alot of my product line is showcased at!
 
 ------------
 
-**Am I looking for work?**
+**Am I looking for work?** 
 Currently no as I do not have time as I manage **[Atlas Development](http://elapsed.dev/discord "Atlas Development")** and work at [**VendettaMC**](http://vendettamc.net/discord "**VendettaMC**") and currently attending at UAT.
 
 ------------
