@@ -14,7 +14,7 @@
 
 ### ⚡ Current Work
 - I am also the founder of **[Atlas Development](http://redirect.elapsed.dev/discord "Atlas Development")** where at alot of my product line is showcased at!
-- I am also a senior developer at **[Stellar Dev LLC](http://redirect.elapsed.dev/stellar "Stellar Development")** where I currently take commissions.
+- I am also a senior developer at **[StellarDev LLC](http://redirect.elapsed.dev/stellar "Stellar Development")** where I currently take commissions.
 
 ------------
 
