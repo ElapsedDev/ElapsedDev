@@ -14,13 +14,12 @@
 
 ### ⚡ Current Work
 - I am also the founder of **[Atlas Development](http://redirect.elapsed.dev/discord "Atlas Development")** where at alot of my product line is showcased at!
-- I am also a senior developer at **[StellarDev LLC](http://redirect.elapsed.dev/stellar "Stellar Development")** where I currently take commissions.
 
 ------------
 
 **Am I looking for work?** 
-- Yes, find me at **[Stellar LLC](http://redirect.elapsed.dev/stellar "Stellar Development")**!
-- I can work on Server Optimization, NMS, Protocol/Packet data, Bug Fixes, Lag Diagnosis!
+- No
+- I use to work on Server Optimization, NMS, Protocol/Packet data, Bug Fixes, Lag Diagnosis!
 
 ------------
 
